@@ -19,6 +19,8 @@
 ## Projetos
 
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day1-neumorphismCard">Dia 01 - Credit card neumorphism<a>
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dia 01 - Credit card neumorphism 
 
