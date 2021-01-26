@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card glassmorphism</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">  
+    <link rel="shortcut icon" href="assets/mastercard.svg" type="image/x-icon">
+
+    <link rel="stylesheet" href="./styles/styles.css">
+  </head>
+  <body>
+    <div class="card">
+      <div class="card-content">
+        <div class="master-card">
+          <img src="./assets/mastercard.svg" alt="mastercard" />
+        </div><!--master-card-->
+
+        <div class="number">
+          <span>CARD NUMBER</span>
+            <div class="number-circle">
+              <section>
+                <div></div>
+                <div></div>
+                <div></div> 
+                <div></div>
+              </section><!--bolinha-->
+              <section>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </section><!--bolinha-->
+              <section>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </section><!--bolinha-->
+              <span>0000</span>
+            </div><!--number-circle-->
+        </div><!--number-->
+
+        <footer>
+          <p>VALID UNTIL <br /> 11/22</p>
+          <span>JOAO VITOR GARCIA</span>
+        </footer>
+      </div><!--card-content-->
+    </div><!--card-->
+
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+    <script type="text/javascript">
+      VanillaTilt.init(document.querySelector(".card"), {
+        max: 25,
+        speed: 400,
+        glare: true,
+        "max-glare": 1,
+      });
+
+      VanillaTilt.init(document.querySelectorAll(".card"));
+    </script>
+  </body>
+</html>

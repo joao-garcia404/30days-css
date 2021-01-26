@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(90deg, #000, #605D5D);
+  background: #161623;
+  font-family: 'Roboto', sans-serif;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+
+body::before {
+  content: '';
+  position: absolute; 
+  top: 50%;
+  left: 30% ;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background: linear-gradient(#48c6ef, #2c50d4); 
+}
+
+body::after {
+  content: '';
+  position: absolute; 
+  top: 25%;
+  right: 30%;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background: linear-gradient(#13547a, #80d0c7); 
+}
+
+.card {
+  width: 420px;
+  height: 260px;
+  border-radius: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  border-left: 1px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(5px); 
+  padding: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  transition: 0.5s;   
+  z-index: 1;
+}
+
+.card-content { 
+  transform: translateY(100px);
+  opacity: 0;
+  transition: 0.5s;
+}
+
+.card:hover > .card-content{ 
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.master-card img{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.number {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 80px;
+}
+
+.number span {
+  font-size: 18px;
+}
+
+.number-circle {
+  display: flex;
+  align-items: center;
+}
+
+.number-circle section {
+  display: flex;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.number-circle span {
+  margin-top: 5px;
+}
+
+.number-circle section div { 
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #fff;
+  margin-right: 5px;
+}
+
+footer {
+  width: 100%;
+  /* margin: 0 auto; */
+  margin-top: 45px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
