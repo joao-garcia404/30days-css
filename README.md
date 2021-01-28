@@ -19,7 +19,10 @@
 ## Projetos
 
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day1-neumorphismCard">Dia 01 - Credit card neumorphism<a>
+<br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day1-neumorphismCard">Dia 02 - Flip card<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day3-pixelButton">Dia 03 - Pixel button<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,3 +33,7 @@
 ## Dia 02 - Flip card
 
 ![](./gifs/flip-card.gif)
+
+## Dia 03 - Pixel button
+
+![](./gifs/pixel-button.gif)
