@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+  background: #111;
+}
+
+a {
+  position: relative;
+  width: 280px;
+  height: 160px;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 60px;
+  letter-spacing: 2px;
+  margin: 20px;
+  transition: 0.5s;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a:hover {
+  background: #ec0b36 url('../assets/pixel.png');
+  transition-delay: 0.8s;
+  background-size: 280px;
+  animation: animate 0.8s steps(8) forwards;
+}
+
+@keyframes animate {
+  0% {
+    background-position-y: 0;
+  }
+  100% {
+    background-position-y: -480px;
+  }
+}
