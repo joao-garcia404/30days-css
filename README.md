@@ -19,9 +19,14 @@
 ## Projetos
 
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day1-neumorphismCard">Dia 01 - Credit card neumorphism<a>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day1-neumorphismCard">Dia 02 - Flip card<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dia 01 - Glassmorfism credit-card 
 
 ![](./gifs/creditCard-neumorphism.gif)
+
+## Dia 02 - Flip card
+
+![](./gifs/flip-card.gif)
