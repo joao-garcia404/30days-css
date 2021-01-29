@@ -23,7 +23,9 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day1-neumorphismCard">Dia 02 - Flip card<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day3-pixelButton">Dia 03 - Pixel button<a>
-  
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day4-waveButton">Dia 04 - Wave button<a>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dia 01 - Glassmorfism credit-card 
@@ -37,3 +39,7 @@
 ## Dia 03 - Pixel button
 
 ![](./gifs/pixel-button.gif)
+
+## Dua 04 - Wave button 
+
+![](./gifs/wave-button.gif)
