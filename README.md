@@ -27,6 +27,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day4-waveButton">Dia 04 - Wave button<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day5-loaderNeon">Dia 05 - Neon loader<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day6-neonButton">Dia 06 - Neon button<a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -49,3 +51,7 @@
 ## Dia 05 - Neon loader
 
 ![](./gifs/neon-loader.gif)
+
+## Dia 06 - Neon button
+
+![](./gifs/neon-button.gif)
