@@ -29,6 +29,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day5-loaderNeon">Dia 05 - Neon loader<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day6-neonButton">Dia 06 - Neon button<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day7-heartBeating">Dia 07 - Heart beating<a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,3 +57,7 @@
 ## Dia 06 - Neon button
 
 ![](./gifs/neon-button.gif)
+
+## Dia 07 - Heart beating
+
+![](./gifs/heart-beating.gif)
