@@ -33,6 +33,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day7-heartBeating">Dia 07 - Heart beating<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day8-textFailing">Dia 08 - Text failing<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day9-shadowAnimation">Dia 09 - Shadow animation<a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -67,3 +69,7 @@
 ## Dia 08 - Text failing
 
 ![](./gifs/text-failing.gif)
+
+## Dia 09 - Shadow animation
+
+![](./gifs/shadowAnimation.gif)
