@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #000;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+} 
+
+button {
+  background: none;
+  border: 2px solid #03fce8;
+  font: inherit;
+  color: #03fce8;
+  line-height: 1;
+  margin: 0.5em;
+  padding: 1em 2em;
+  cursor: pointer;
+}
+
+.pulse:hover {
+  animation: shadow 2s linear infinite;
+}
+
+@keyframes shadow {
+  0% {
+    box-shadow: inset 0 0 1em 0, 0 0 0em #03fce8;
+  }
+
+  25% {
+    box-shadow: inset 0 0 2em 0, 0 0 2em #03fce8;
+  }
+
+  50% { 
+    box-shadow: inset 0 0 3em 0, 0 0 8em #03fce8;
+  }
+
+  100% {
+    box-shadow: inset 0 0 1em 0, 0 0 0em #03fce8;
+  }
+}
