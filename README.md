@@ -35,6 +35,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day8-textFailing">Dia 08 - Text failing<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day9-shadowAnimation">Dia 09 - Shadow animation<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day10-socialMediaTooltip">Dia 10 - Social media tooltip<a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -73,3 +75,6 @@
 ## Dia 09 - Shadow animation
 
 ![](./gifs/shadowAnimation.gif)
+
+## Dia 10 - Social media tooltip
+![](./gifs/social-media-tooltip.gif)
