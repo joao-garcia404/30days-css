@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(315deg, #ffffff, #d7e1ec);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  position: relative;
+}
+
+.linkedin {
+  position: relative;
+}
+
+.linkedin span {
+  width: 13 0px;
+  background: #0274b3;
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+
+  position: absolute;
+  bottom: calc(100% + 12px);
+  bottom: -70px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  color: #fff;
+  text-align: center;
+
+  opacity: 0;
+  transition: opacity 0.6s;
+  visibility: hidden;
+}
+
+.linkedin span::before {
+  content: '';
+  border-style: solid;
+  border-color: #0274b3 transparent;
+  border-width: 6px 6px 0 6px;
+  bottom: 20px;
+  top: 100%;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.container:hover .linkedin span {
+  bottom: calc(100% + 12px);
+  visibility: visible;
+  opacity: 1;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+}
+
+.img img {
+  width: 40px;
+  height: 40px;
+}
