@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+  background: #282828;
+}
+
+.effect {
+  display: flex;
+  flex-direction: row;
+}
+
+.effect div {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  margin: 20px;
+  overflow: hidden;
+  border-radius: 40px;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5));
+  border: 2px solid #000;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.effect div:hover {
+  border: 2px solid #272727;
+  box-shadow: -5px -5px 5px rgba(92, 92, 92, 0.1),
+    10px 10px 10px rgba(0, 0, 0, 0.4), 
+    inset -5px -5px 5px rgba(82, 82, 82, 0.2),
+    inset 10px 10px 10px rgba(0, 0, 0, 0.4);
+}
