@@ -37,7 +37,9 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day9-shadowAnimation">Dia 09 - Shadow animation<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day10-socialMediaTooltip">Dia 10 - Social media tooltip<a>
-
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day11-borderNeumorphism">Dia 11 - Border neumorphism<a>
+  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dia 01 - Glassmorfism credit-card 
@@ -78,3 +80,6 @@
 
 ## Dia 10 - Social media tooltip
 ![](./gifs/social-media-tooltip.gif)
+
+#Dia 11 - Border neumorphism
+![](./gifs/border-neumorphism.gif)
