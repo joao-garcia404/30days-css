@@ -39,6 +39,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day10-socialMediaTooltip">Dia 10 - Social media tooltip<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day11-borderNeumorphism">Dia 11 - Border neumorphism<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day12-navbarAnimation">Dia 12 - Navbar animation<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,5 +83,8 @@
 ## Dia 10 - Social media tooltip
 ![](./gifs/social-media-tooltip.gif)
 
-#Dia 11 - Border neumorphism
+## Dia 11 - Border neumorphism
 ![](./gifs/border-neumorphism.gif)
+
+## Dia 12 - Navbar animation
+![](./gifs/navbar-animation.gif)
