@@ -43,6 +43,7 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day12-navbarAnimation">Dia 12 - Navbar animation<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day13-buttonGlassmorphism">Dia 13 - Button glassmorphism<a>
+<br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day14-progressBar">Dia 14 - Progress bar<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
