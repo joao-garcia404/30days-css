@@ -47,6 +47,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day14-progressBar">Dia 14 - Progress bar<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/Day15-loadingAnimation">Dia 15 - Loading animation<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day16-inputAnimation">Dia 16 - Input animation<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -90,16 +92,25 @@
 ![](./gifs/social-media-tooltip.gif)
 
 ## Dia 11 - Border neumorphism
+
 ![](./gifs/border-neumorphism.gif)
 
 ## Dia 12 - Navbar animation
+
 ![](./gifs/navbar-animation.gif)
 
 ## Dia 13 - Button glassmorphism
+
 ![](./gifs/button-glassmorphism.gif)
 
 ## Dia 14 - Progress bar
+
 ![](./gifs/progress-bar.gif)
 
 ## Dia 15 - Loading animation
+
 ![](./gifs/loading-animation.gif)
+
+## Dia 16 - Input animation
+
+![](./gifs/input-animation.gif)
