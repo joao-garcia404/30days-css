@@ -51,6 +51,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day16-inputAnimation">Dia 16 - Input animation<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day17-boxShadowAnimation">Dia 17 - Box shadow animation<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day18-hoverGlassmorphism">Dia 17 - Hover glassmorphism<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -120,3 +122,7 @@
 ## Dia 17 - Box shadow animation
 
 ![](./gifs/boxShadow-animation.gif)
+
+## Dia 18 - Hover glassmorphism
+
+![](./gifs/hover-glassmorphism.gif)
