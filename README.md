@@ -52,7 +52,7 @@
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day17-boxShadowAnimation">Dia 17 - Box shadow animation<a>
 <br>
-<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day18-hoverGlassmorphism">Dia 17 - Hover glassmorphism<a>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day18-hoverGlassmorphism">Dia 18 - Hover glassmorphism<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
