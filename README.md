@@ -49,6 +49,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/Day15-loadingAnimation">Dia 15 - Loading animation<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day16-inputAnimation">Dia 16 - Input animation<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day17-boxShadowAnimation">Dia 17 - Box shadow animation<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -114,3 +116,7 @@
 ## Dia 16 - Input animation
 
 ![](./gifs/input-animation.gif)
+
+## Dia 17 - Box shadow animation
+
+![](./gifs/boxShadow-animation.gif)
