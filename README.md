@@ -55,6 +55,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day18-hoverGlassmorphism">Dia 18 - Hover glassmorphism<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day19-textAnimation">Dia 19 - Text animation<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day20-check3dFlip">Dia 20 - Check 3D flip<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -132,3 +134,7 @@
 ## Dia 19 - Text animation
 
 ![](./gifs/text-animation.gif)
+
+## Dia 20 - Check 3D Flip
+
+![](./gifs/check-3d.gif)
