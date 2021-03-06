@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: #F1F2F7;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  font-size: 100px;
+  font-weight: 600;
+}
+
+.one {
+  animation: animate 1s linear infinite;
+}
+
+.two {
+  animation: animate 1s linear infinite;
+  animation-delay: 0.2s;
+}
+
+.three {
+  animation: animate 1s linear infinite;
+  animation-delay: 0.4s;
+}
+
+.four {
+  animation: animate 1s linear infinite;
+  animation-delay: 0.6s;
+}
+
+@keyframes animate {
+  0% {
+    transform: translateX(0px);
+    color: #ff9000;
+  }
+
+  50% { 
+    transform: translateY(-30px);
+    color: #13f0cb;
+  }
+
+  100% {
+    transform: translateY(0px);
+    color: #7107eb;
+  }
+}
