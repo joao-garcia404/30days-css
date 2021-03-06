@@ -53,6 +53,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day17-boxShadowAnimation">Dia 17 - Box shadow animation<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day18-hoverGlassmorphism">Dia 18 - Hover glassmorphism<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day19-textAnimation">Dia 19 - Text animation<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -126,3 +128,7 @@
 ## Dia 18 - Hover glassmorphism
 
 ![](./gifs/hover-glassmorphism.gif)
+
+## Dia 19 - Text animation
+
+![](./gifs/text-animation.gif)
