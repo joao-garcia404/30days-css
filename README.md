@@ -57,6 +57,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day19-textAnimation">Dia 19 - Text animation<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day20-check3dFlip">Dia 20 - Check 3D flip<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day21-buttonActive">Dia 21 - Button active animation<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -138,3 +140,7 @@
 ## Dia 20 - Check 3D Flip
 
 ![](./gifs/check-3d.gif)
+
+## Dia 21 - Button active animation
+
+![](./gifs/button-active.gif)
