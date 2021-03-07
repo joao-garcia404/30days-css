@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: #F1F2F7;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  width: 200px;
+  height: 80px;
+  border: none;
+  border-radius: 10px;
+  background: #fc037f;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  filter: drop-shadow(0 0 0.75rem #fc037f);
+  transition: all 0.3s;
+}
+
+button:active {
+  width: 150px;
+  height: 60px;
+  font-size: 14px;
+}
