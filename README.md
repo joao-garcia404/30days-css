@@ -59,6 +59,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day20-check3dFlip">Dia 20 - Check 3D flip<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day21-buttonActive">Dia 21 - Button active animation<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day22-preloader">Dia 22 - Preloader<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -144,3 +146,7 @@
 ## Dia 21 - Button active animation
 
 ![](./gifs/button-active.gif)
+
+## Dia 22 - preloader
+
+![](./gifs/preloader.gif)
