@@ -61,6 +61,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day21-buttonActive">Dia 21 - Button active animation<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day22-preloader">Dia 22 - Preloader<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day23-toggleSwitch">Dia 23 - Toggle switch<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -150,3 +152,6 @@
 ## Dia 22 - preloader
 
 ![](./gifs/preloader.gif)
+
+## Dia 23 - Toggle switch
+![](./gifs/toggle-switch.gif)
