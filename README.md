@@ -65,6 +65,8 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day23-toggleSwitch">Dia 23 - Toggle switch<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day24-heartLoader">Dia 24 - Heart loader<a>
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day25-hoverButton">Dia 25 - Button hover<a>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -162,3 +164,5 @@
 ## Dia 24 - Heart loader
 
 ![](./gifs/heart-loader.gif)
+
+## Dai 25 - Button hover
