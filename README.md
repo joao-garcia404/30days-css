@@ -67,7 +67,9 @@
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day24-heartLoader">Dia 24 - Heart loader<a>
 <br>
 <a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day25-hoverButton">Dia 25 - Button hover<a>
-  
+<br>
+<a href="https://github.com/joao-garcia404/30days-css/tree/main/projects/day26-cardLoading">Dia 26 - Card loading<a>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dia 01 - Glassmorfism credit-card 
@@ -165,4 +167,10 @@
 
 ![](./gifs/heart-loader.gif)
 
-## Dai 25 - Button hover
+## Dia 25 - Button hover
+
+![](./gifs/button-hover.gif)
+
+## Dia 26 - Card loading
+
+![](./gifs/card-loader.gif)
